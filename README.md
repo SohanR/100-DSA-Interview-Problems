@@ -2,6 +2,8 @@
 
 100 DSA interview problems with solutions
 
+![](https://mrsohan.netlify.app/static/media/work9.2ca549284563f79a8204.png)
+
 ## Introduction
 
 This repository is your go-to resource for mastering Data Structures and Algorithms. I have curated a list of the top 100 DSA problems from LeetCode, covering a wide array of topics such as Array, String, Linked List, Graph, Dynamic Programming, Tree, Stack and Queue, and Miscellaneous. These problems are carefully selected to provide a comprehensive understanding of essential DSA concepts.
